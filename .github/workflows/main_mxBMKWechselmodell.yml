@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'mxBMKWechselmodell'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7ace39caaea14fc8993c556e5848ab6f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1357ae6395db4651ac158a6e15fceb80 }}
